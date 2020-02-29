@@ -1,6 +1,5 @@
 # Netflix-App
 Author: Joshua Herman 
-Date: 
 
 A graphical user interface application implementing N-tier desing in C# to execute SQL queries on a Netflix database. 
 
