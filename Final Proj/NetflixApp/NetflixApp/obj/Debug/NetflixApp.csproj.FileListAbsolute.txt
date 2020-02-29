@@ -1,0 +1,11 @@
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.SubForm.resources
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\jherm\OneDrive\Desktop\Final Proj\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
